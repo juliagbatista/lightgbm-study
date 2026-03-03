@@ -21,7 +21,7 @@ This repository contains a simple example script for running a regression model 
 - `lightgbm` package (will be installed automatically if missing)
 
 ## Purpose
-This project is for educational purposes to help understand how LightGBM can be used for regression tasks in R.
+This project is for understand how LightGBM can be used for regression tasks in R.
 
 ---
-Feel free to modify the script or use real-world data for further experimentation!
+Feel free to modify.
