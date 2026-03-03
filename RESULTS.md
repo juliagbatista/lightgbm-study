@@ -20,5 +20,4 @@
   - The model learned some relationship between features and the target, but with synthetic data, accuracy is limited.
   - For better results, use more complex or real-world data.
 
----
-Feel free to update this file with your own results and plots as you experiment further!
+
