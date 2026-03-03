@@ -47,3 +47,10 @@ cat("Test RMSE:", rmse, "\n")
 plot(Y_test, preds, main = "LightGBM Regression: Predictions vs Actual",
      xlab = "Actual Values", ylab = "Predicted Values")
 abline(0, 1, col = "red")
+
+
+png("plot_lightgbm.png")
+plot(Y_test, preds, main = "LightGBM Regression: Predictions vs Actual",
+     xlab = "Actual Values", ylab = "Predicted Values")
+abline(0, 1, col = "red")
+dev.off()
